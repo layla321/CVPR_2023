@@ -62,5 +62,6 @@ Notes and work related to the conference
 - [Faith and Fate: Limits of Transformers on Compositionality](https://arxiv.org/abs/2305.18654)
   - Referenced in the "AI Odyssey" keynote
 - [Why AI is incredibly smart and shockingly stupid](https://www.ted.com/talks/yejin_choi_why_ai_is_incredibly_smart_and_shockingly_stupid/c?language=en)
+  - High-level TED talk similar to her keynote 
 - [Mask2Former](https://github.com/facebookresearch/Mask2Former)
   - Top image segmentation result from Facebook
