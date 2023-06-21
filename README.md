@@ -8,6 +8,7 @@ Notes and work related to the conference
   - Highlighted challenges with predicting where AI will go in the future
 - History and Future of Artificial Intelligence and Computer Vision
 - An AI Odyssey: the Dark Matter of Intelligence
+  - Talk on what is possible with AI and the limits of our current methods
 - Vision, Language, and Creativity
 - Modeling Atoms to Address Our Climate Crisis
 - Scientific Discovery and the Environment  
@@ -20,7 +21,7 @@ Notes and work related to the conference
 
 ## Papers and Posters
 
-- [Visual Programming: Compositional Visual Reasoning Without Training](https://cvpr.thecvf.com/virtual/2023/poster/22652)
+- [Visual Programming: Compositional Visual Reasoning Without Training](https://cvpr.thecvf.com/virtual/2023/poster/22652) - Best Paper Winner
   - Overview of a method for quickly writing code that reaches out to services like object detection to complete tasks like "change the car to be a BMW" without building an end-to-end model or creating unique services for each task.
   - How does it connect to those services?
 - [A Generalized Framework for Video Instance Segmentation](https://cvpr.thecvf.com/virtual/2023/poster/22446)
@@ -40,4 +41,14 @@ Notes and work related to the conference
   - This paper proposes a two-stage approach to distill the CFG models into a faster model for sampling
     - Stage 1: Guidance Distillation - distill the two teacher models into one student model
     - Stage 2: Progressive Dstillation - distill the learned model from the first-stage into a fewer-step guided model by halving the number of steps each time
-  -  
+- [DreamBooth: Fine Tuning Text-to-Image Diffusion Models for Subject-Driven Generation](https://cvpr.thecvf.com/virtual/2023/poster/21256)
+- [3D Registration With Maximal Cliques](https://cvpr.thecvf.com/virtual/2023/poster/22705)
+- [DynIBaR: Neural Dynamic Image-Based Rendering](https://cvpr.thecvf.com/virtual/2023/poster/22802)
+- [Planning-Oriented Autonomous Driving](https://cvpr.thecvf.com/virtual/2023/poster/22922) - Best Paper Winner
+
+## Related Work
+- [Faith and Fate: Limits of Transformers on Compositionality](https://arxiv.org/abs/2305.18654)
+  - Referenced in the "AI Odyssey" keynote
+- [Why AI is incredibly smart and shockingly stupid](https://www.ted.com/talks/yejin_choi_why_ai_is_incredibly_smart_and_shockingly_stupid/c?language=en)
+- [Mask2Former](https://github.com/facebookresearch/Mask2Former)
+  - Top image segmentation result from Facebook
