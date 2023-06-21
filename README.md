@@ -45,6 +45,7 @@ Notes and work related to the conference
 - [3D Registration With Maximal Cliques](https://cvpr.thecvf.com/virtual/2023/poster/22705)
 - [DynIBaR: Neural Dynamic Image-Based Rendering](https://cvpr.thecvf.com/virtual/2023/poster/22802)
 - [Planning-Oriented Autonomous Driving](https://cvpr.thecvf.com/virtual/2023/poster/22922) - Best Paper Winner
+- [Integral Neural Networks](https://cvpr.thecvf.com/virtual/2023/poster/21686)
 
 ## Related Work
 - [Faith and Fate: Limits of Transformers on Compositionality](https://arxiv.org/abs/2305.18654)
