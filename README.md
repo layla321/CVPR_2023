@@ -18,7 +18,7 @@ Notes and work related to the conference
 - [Full-Stack, GPU-based Acceleration of Deep Learning](https://cvpr.thecvf.com/virtual/2023/tutorial/18561)
 - [Large-Scale Visual Localization](https://cvpr.thecvf.com/virtual/2023/tutorial/18551)
 
-## Papers
+## Papers and Posters
 
 - [Visual Programming: Compositional Visual Reasoning Without Training](https://cvpr.thecvf.com/virtual/2023/poster/22652)
   - Overview of a method for quickly writing code that reaches out to services like object detection to complete tasks like "change the car to be a BMW" without building an end-to-end model or creating unique services for each task.
@@ -32,3 +32,12 @@ Notes and work related to the conference
   - Produces images of multiple sizes. Are they contrasted against one another as part of the generation process?
   - Can start with a low-res image and upscale it
   - Highlighted some failure cases to be aware of
+- [On Distillation of Guided Diffusion Models](https://cvpr.thecvf.com/virtual/2023/poster/21256)
+  - Classified-free guided diffusion models, like DALLE-2 and Stable Diffusion, consist of a guidance strength parameter and two diffusion models (an unconditional model and a conditional model)
+  - CFG is necesssary for high-quality results
+  - During each denoising step the models estimate the predicted noise, combining the two models
+  - The downside is that they are computationally expense during inference since there are two models
+  - This paper proposes a two-stage approach to distill the CFG models into a faster model for sampling
+    - Stage 1: Guidance Distillation - distill the two teacher models into one student model
+    - Stage 2: Progressive Dstillation - distill the learned model from the first-stage into a fewer-step guided model by halving the number of steps each time
+  -  
