@@ -10,6 +10,7 @@ Notes and work related to the conference
 - An AI Odyssey: the Dark Matter of Intelligence
   - Talk on what is possible with AI and the limits of our current methods
 - Vision, Language, and Creativity
+  -  
 - Modeling Atoms to Address Our Climate Crisis
 - Scientific Discovery and the Environment  
 
@@ -42,10 +43,20 @@ Notes and work related to the conference
     - Stage 1: Guidance Distillation - distill the two teacher models into one student model
     - Stage 2: Progressive Dstillation - distill the learned model from the first-stage into a fewer-step guided model by halving the number of steps each time
 - [DreamBooth: Fine Tuning Text-to-Image Diffusion Models for Subject-Driven Generation](https://cvpr.thecvf.com/virtual/2023/poster/21256)
+  - Using a small number of input images, you can create a pre trained text-to-image model to generate images of a specific subject
+  - This is difficult to do with text prompts or CLIP embeddings
+  - Would be a great method for keeping consistent characters across images
+  - Should look into how to implement this
 - [3D Registration With Maximal Cliques](https://cvpr.thecvf.com/virtual/2023/poster/22705)
 - [DynIBaR: Neural Dynamic Image-Based Rendering](https://cvpr.thecvf.com/virtual/2023/poster/22802)
 - [Planning-Oriented Autonomous Driving](https://cvpr.thecvf.com/virtual/2023/poster/22922) - Best Paper Winner
 - [Integral Neural Networks](https://cvpr.thecvf.com/virtual/2023/poster/21686)
+  - They introduce a new family of deep neural networks, where instead of the conventional representation of network layers as N-dimensional weight tensors, we use a continuous layer representation along the filter and channel dimensions.
+  - Notably they discuss how existing models could be converted to this system instead of being rebuilt
+  - Leading candidate for the paper I least understood
+- [Towards Accurate Image Coding: Improved Autoregressive Image Generation With Dynamic Vector Quantization](https://cvpr.thecvf.com/virtual/2023/poster/22990)
+  - By encoding with fixed-size image regions you end up with insufficiency in important regions with dense information and redundancy in unimportant regions with sparse information
+  - They proposal variable-length coding based on information density
 
 ## Related Work
 - [Faith and Fate: Limits of Transformers on Compositionality](https://arxiv.org/abs/2305.18654)
