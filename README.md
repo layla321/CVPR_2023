@@ -10,7 +10,7 @@ Notes and work related to the conference
 - An AI Odyssey: the Dark Matter of Intelligence
   - Talk on what is possible with AI and the limits of our current methods
 - Vision, Language, and Creativity
-  -  
+  - Discussion with creative experts like artists about how to involve them in computer vision
 - Modeling Atoms to Address Our Climate Crisis
 - Scientific Discovery and the Environment  
 
