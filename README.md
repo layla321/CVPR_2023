@@ -1,4 +1,4 @@
-# CVPR_2023
+# CVPR 2023 (Virtual)
 Notes and work related to the conference
 
 ## Keynotes and Panels
