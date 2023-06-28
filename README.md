@@ -7,6 +7,7 @@ Notes and work related to the conference
   - Great talk highlighting some of the history of CV and how old ideas returned as technology improved
   - Highlighted challenges with predicting where AI will go in the future
 - [History and Future of Artificial Intelligence and Computer Vision](https://cvpr.thecvf.com/virtual/2023/panel/23304)
+  - Historic look at the field and conference. Interesting to see how their perspective differed from mine, for example, I view this as a deep learning conference and they do not, at least not until recently. 
 - [An AI Odyssey: the Dark Matter of Intelligence](https://cvpr.thecvf.com/virtual/2023/invited-talk/23302)
   - Talk on what is possible with AI and the limits of our current methods
 - [Vision, Language, and Creativity](https://cvpr.thecvf.com/virtual/2023/panel/23305)
@@ -14,9 +15,9 @@ Notes and work related to the conference
 - [PAMI Meeting](https://cvpr.thecvf.com/virtual/2023/panel/23564)
   - Meeting to discuss how the conference was run and the future of CVF conferences like CVPR, ICCV, and ECCV among others 
 - [Modeling Atoms to Address Our Climate Crisis](https://cvpr.thecvf.com/virtual/2023/invited-talk/23303)
-  -  
+  - Look at how to use CV to model the interaction of atoms 
 - [Scientific Discovery and the Environment](https://cvpr.thecvf.com/virtual/2023/panel/23306)
-  - 
+  - Topics ranging from climate change to sub-atomic particles
 
 ## Tutorials and Workshops
 - [Vision Transformer: More is Different](https://cvpr.thecvf.com/virtual/2023/tutorial/18572)
