@@ -1,18 +1,22 @@
 # CVPR 2023 (Virtual)
 Notes and work related to the conference
 
-## Keynotes and Panels
+## [Keynotes and Panels](https://cvpr.thecvf.com/virtual/2023/eventlistwithbios/2023KeynotesPanels)
 
-- [Revisiting Old Ideas With Modern Hardware](https://cvpr.thecvf.com/virtual/2023/eventlistwithbios/2023KeynotesPanels)
+- [Revisiting Old Ideas With Modern Hardware](https://cvpr.thecvf.com/virtual/2023/invited-talk/23301)
   - Great talk highlighting some of the history of CV and how old ideas returned as technology improved
   - Highlighted challenges with predicting where AI will go in the future
-- History and Future of Artificial Intelligence and Computer Vision
-- An AI Odyssey: the Dark Matter of Intelligence
+- [History and Future of Artificial Intelligence and Computer Vision](https://cvpr.thecvf.com/virtual/2023/panel/23304)
+- [An AI Odyssey: the Dark Matter of Intelligence](https://cvpr.thecvf.com/virtual/2023/invited-talk/23302)
   - Talk on what is possible with AI and the limits of our current methods
-- Vision, Language, and Creativity
+- [Vision, Language, and Creativity](https://cvpr.thecvf.com/virtual/2023/panel/23305)
   - Discussion with creative experts like artists about how to involve them in computer vision
-- Modeling Atoms to Address Our Climate Crisis
-- Scientific Discovery and the Environment  
+- [PAMI Meeting](https://cvpr.thecvf.com/virtual/2023/panel/23564)
+  - Meeting to discuss how the conference was run and the future of CVF conferences like CVPR, ICCV, and ECCV among others 
+- [Modeling Atoms to Address Our Climate Crisis](https://cvpr.thecvf.com/virtual/2023/invited-talk/23303)
+  -  
+- [Scientific Discovery and the Environment](https://cvpr.thecvf.com/virtual/2023/panel/23306)
+  - 
 
 ## Tutorials and Workshops
 - [Vision Transformer: More is Different](https://cvpr.thecvf.com/virtual/2023/tutorial/18572)
