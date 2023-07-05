@@ -53,6 +53,7 @@ Notes and work related to the conference
   - Would be a great method for keeping consistent characters across images
   - Should look into how to implement this
 - [3D Registration With Maximal Cliques](https://cvpr.thecvf.com/virtual/2023/poster/22705)
+  - Point cloud registration (PCR) is an important and fundamental problem in 3D computer vision and has a wide range of applications in localization, 3D object detection and 3D reconstruction. Given two 3D scans of the same object (or scene), the goal of PCR is to estimate a six-degree-of-freedom (6-DoF) pose transformation that accurately aligns the two input point clouds. 
 - [DynIBaR: Neural Dynamic Image-Based Rendering](https://cvpr.thecvf.com/virtual/2023/poster/22802)
   - Impressive work. Existing work is able to produce free-viewpoint renderings of static 3D scenes. DynIBaR extends that work to videos, including with moving cameras
 - [Planning-Oriented Autonomous Driving](https://cvpr.thecvf.com/virtual/2023/poster/22922) - Best Paper Winner
