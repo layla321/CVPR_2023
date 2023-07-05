@@ -55,6 +55,8 @@ Notes and work related to the conference
 - [3D Registration With Maximal Cliques](https://cvpr.thecvf.com/virtual/2023/poster/22705)
 - [DynIBaR: Neural Dynamic Image-Based Rendering](https://cvpr.thecvf.com/virtual/2023/poster/22802)
 - [Planning-Oriented Autonomous Driving](https://cvpr.thecvf.com/virtual/2023/poster/22922) - Best Paper Winner
+  - Great overview of how many vision models are combined to create aan autonomous driving system.
+  - Good reference for the latest SOTA models for various tasks 
 - [Integral Neural Networks](https://cvpr.thecvf.com/virtual/2023/poster/21686)
   - They introduce a new family of deep neural networks, where instead of the conventional representation of network layers as N-dimensional weight tensors, we use a continuous layer representation along the filter and channel dimensions.
   - Notably they discuss how existing models could be converted to this system instead of being rebuilt
