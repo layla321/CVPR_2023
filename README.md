@@ -54,6 +54,7 @@ Notes and work related to the conference
   - Should look into how to implement this
 - [3D Registration With Maximal Cliques](https://cvpr.thecvf.com/virtual/2023/poster/22705)
 - [DynIBaR: Neural Dynamic Image-Based Rendering](https://cvpr.thecvf.com/virtual/2023/poster/22802)
+  - Impressive work. Existing work is able to produce free-viewpoint renderings of static 3D scenes. DynIBaR extends that work to videos, including with moving cameras
 - [Planning-Oriented Autonomous Driving](https://cvpr.thecvf.com/virtual/2023/poster/22922) - Best Paper Winner
   - Great overview of how many vision models are combined to create aan autonomous driving system.
   - Good reference for the latest SOTA models for various tasks 
